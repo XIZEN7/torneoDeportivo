@@ -1,0 +1,6 @@
+[
+  {
+    "_id": {"$oid": "642b81056737e1a356253f5e"},
+    "equipos": "[{nombre=Equipo A, ciudad=Ciudad A, deportistas=[{nombre=Deportista 1, edad=20}, {nombre=Deportista 2, edad=22}, {nombre=Deportista 3, edad=25}, {nombre=Deportista 4, edad=23}, {nombre=Deportista 5, edad=30}, {nombre=Deportista 6, edad=35}, {nombre=Deportista 7, edad=28}]}, {nombre=Equipo B, ciudad=Ciudad B, deportistas=[{nombre=Deportista 8, edad=21}, {nombre=Deportista 9, edad=24}, {nombre=Deportista 10, edad=27}, {nombre=Deportista 11, edad=29}, {nombre=Deportista 12, edad=32}, {nombre=Deportista 13, edad=26}, {nombre=Deportista 14, edad=31}]}]"
+  }
+]

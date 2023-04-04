@@ -1,0 +1,86 @@
+[
+  {
+    "_id": {"$oid": "642b7ff26737e1a356253f3d"},
+    "edad": 20,
+    "equipo": "Equipo A",
+    "nombre": "Deportista 1"
+  },
+  {
+    "_id": {"$oid": "642b7ff26737e1a356253f3e"},
+    "edad": 22,
+    "equipo": "Equipo A",
+    "nombre": "Deportista 2"
+  },
+  {
+    "_id": {"$oid": "642b7ff26737e1a356253f3f"},
+    "edad": 25,
+    "equipo": "Equipo A",
+    "nombre": "Deportista 3"
+  },
+  {
+    "_id": {"$oid": "642b7ff26737e1a356253f40"},
+    "edad": 23,
+    "equipo": "Equipo A",
+    "nombre": "Deportista 4"
+  },
+  {
+    "_id": {"$oid": "642b7ff26737e1a356253f41"},
+    "edad": 30,
+    "equipo": "Equipo B",
+    "nombre": "Deportista 5"
+  },
+  {
+    "_id": {"$oid": "642b7ff26737e1a356253f42"},
+    "edad": 35,
+    "equipo": "Equipo B",
+    "nombre": "Deportista 6"
+  },
+  {
+    "_id": {"$oid": "642b7ff26737e1a356253f43"},
+    "edad": 28,
+    "equipo": "Equipo B",
+    "nombre": "Deportista 7"
+  },
+  {
+    "_id": {"$oid": "642b80436737e1a356253f45"},
+    "edad": 20,
+    "equipo": "Equipo A",
+    "nombre": "Deportista 8"
+  },
+  {
+    "_id": {"$oid": "642b80436737e1a356253f46"},
+    "edad": 22,
+    "equipo": "Equipo A",
+    "nombre": "Deportista 9"
+  },
+  {
+    "_id": {"$oid": "642b80436737e1a356253f47"},
+    "edad": 25,
+    "equipo": "Equipo A",
+    "nombre": "Deportista 10"
+  },
+  {
+    "_id": {"$oid": "642b80436737e1a356253f48"},
+    "edad": 23,
+    "equipo": "Equipo B",
+    "nombre": "Deportista 11"
+  },
+  {
+    "_id": {"$oid": "642b80436737e1a356253f49"},
+    "edad": 20,
+    "equipo": "Equipo B",
+    "nombre": "Deportista 12"
+  },
+  {
+    "_id": {"$oid": "642b80436737e1a356253f4a"},
+    "edad": 25,
+    "equipo": "Equipo B",
+    "nombre": "Deportista 13"
+  },
+  {
+    "_id": {"$oid": "642b80436737e1a356253f4b"},
+    "edad": 21,
+    "equipo": "Equipo B",
+    "nombre": "Deportista 14"
+  }
+]

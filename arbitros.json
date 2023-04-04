@@ -1,0 +1,6 @@
+[
+  {
+    "_id": {"$oid": "642b80fc6737e1a356253f5b"},
+    "arbitros": "[{nombre=Arbitro 1, edad=30}, {nombre=Arbitro 2, edad=35}, {nombre=Arbitro 3, edad=40}, {nombre=Arbitro 4, edad=45}]"
+  }
+]

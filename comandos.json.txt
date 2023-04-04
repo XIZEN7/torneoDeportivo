@@ -1,0 +1,7 @@
+torneoReplicaSet = new ReplSetTest({name: "torneosReplica", nodes: 3})
+torneoReplicaSet.startSet()
+torneoReplicaSet.initiate()
+conn=new Mongo("C0579P10N108:20000")
+testDB=conn.getDB("TorneoDeportivo")
+connSecondary=new Mongo("C0579P10N108:20000")
+torneoReplicaSet.stopSet()

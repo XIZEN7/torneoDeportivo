@@ -1,0 +1,6 @@
+[
+  {
+    "_id": {"$oid": "642b80846737e1a356253f4e"},
+    "encuentros": "[{fecha=2023-04-10T00:00:00.000Z, lugar=Estadio X, equipoLocal=Equipo A, equipoVisitante=Equipo B, arbitros=[Arbitro 1, Arbitro 2], resultado=[3, 0]}, {fecha=2023-04-15T00:00:00.000Z, lugar=Estadio Y, equipoLocal=Equipo B, equipoVisitante=Equipo A, arbitros=[Arbitro 3, Arbitro 4], resultado=[1, 1]}]"
+  }
+]
