@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "643ca75bcc6bb0ee951deca5"
+  },
+  "id": 1,
+  "nombres": "Juan",
+  "apellido": "Pérez",
+  "cedula": "12345678",
+  "telefono": "555-1234",
+  "edad": 35,
+  "fecha_nacimiento": "1988-05-12",
+  "estatura": 1.8
+}]
