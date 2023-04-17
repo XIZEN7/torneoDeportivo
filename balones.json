@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "643cbdc50e638a279604fa5f"
+  },
+  "nombre": "Balón Adidas Tango",
+  "precio": 30,
+  "marca": "Adidas",
+  "material": "Cuero",
+  "tamaño": "5"
+},{
+  "_id": {
+    "$oid": "643cbdc50e638a279604fa60"
+  },
+  "nombre": "Balón Nike Premier",
+  "precio": 25,
+  "marca": "Nike",
+  "material": "Cuero sintético",
+  "tamaño": "4"
+},{
+  "_id": {
+    "$oid": "643cbdc50e638a279604fa61"
+  },
+  "nombre": "Balón Puma King",
+  "precio": 29,
+  "marca": "Puma",
+  "material": "Cuero",
+  "tamaño": "5"
+}]
